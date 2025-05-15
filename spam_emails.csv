@@ -1,0 +1,14 @@
+text,label
+"Congratulations! You won a free lottery!",spam
+"Hey, how are you doing?",ham
+"Win cash prizes now!!!",spam
+"Meeting at 10 am tomorrow.",ham
+"Claim your free gift card!",spam
+"Don't forget our lunch date.",ham
+"Limited time offer: 50% off!",spam
+"Can we reschedule our meeting?",ham
+"Congratulations! You've been selected for a special promotion!",spam
+"Let's catch up over coffee next week.",ham
+"Urgent: Your account has been compromised!",spam
+"Reminder: Project deadline is approaching.",ham
+"Exclusive deal just for you!",spam
